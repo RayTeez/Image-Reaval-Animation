@@ -10,7 +10,7 @@ let image = [
     {
         name:'plants',
         color: '#2B4C2B',
-        img: ['img/plant1.jpg','img/plant2.jpg','img/plant5.jpg','img/plant4.jpg']
+        img: ['img/plant1.jpg','img/plant2.jpg','img/plant3.jpg','img/plant4.jpg']
     },
     {
       name:'ocean',
